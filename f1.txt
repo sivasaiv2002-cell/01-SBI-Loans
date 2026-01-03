@@ -1,0 +1,3 @@
+String s1 = "Hey Siva";
+
+String s2 = "Happy new year";
